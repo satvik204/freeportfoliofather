@@ -715,11 +715,13 @@ iframe{
          left:-80px;
          
     }
-    .details i,.details h2{
+    .details i{
         font-size: var(--p-font);
     }
+    .details h2{
+font-size:var(--p-font);
 }
-
+}
 @media (max-width:540px){
   .header{
 
