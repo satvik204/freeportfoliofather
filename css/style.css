@@ -715,7 +715,7 @@ iframe{
          left:-80px;
          
     }
-    .details i,h2{
+    .details i,.details h2{
         font-size: var(--p-font);
     }
 }
