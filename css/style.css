@@ -726,8 +726,14 @@ iframe{
     margin-left:  -50px !important;
     left: 0;
   }
-    .contact .action form input[type="email"], .contact .action form input[type="text"],.contact .action form textarea{
+    .contact .action form input[type="email"]{
         width: 310px;
+    }
+    .contact .action form input[type="text"]{
+        width:310px;
+    }
+    .contact .action form textarea{
+        width:310px;
     }
     .home-img img{
         padding-right: 40%;
